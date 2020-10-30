@@ -1,2 +1,2 @@
 # FactorialRecursionInC
-Method to calculate Factorial Recursively in C
+Method to calculate Factorial Recursively in C++
